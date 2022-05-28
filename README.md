@@ -19,14 +19,15 @@ A template for future projects.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+1. <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Template"/>
 <br />
 <br />
+2. <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Template"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+3.  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Template"/>
 </p>
 
