@@ -25,8 +25,8 @@ A template for future projects.
 <br/>
 2. <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Template"/>
-<br />
-<br />
+<br/>
+<br/>
 3.  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Template"/>
 </p>
